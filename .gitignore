@@ -1,7 +1,9 @@
 # Project exclude paths
 /k-means/target/
-.idea
 k-means/.idea
-k-means/k-means.iml
 linear-regression/linear-regression.iml
 one-way-anova/one-way-anova.iml
+/.idea/
+/k-means/.idea/
+/one-way-anova/target/
+/linear-regression/target/
