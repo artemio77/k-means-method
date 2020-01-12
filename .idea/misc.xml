@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../linear-regression/pom.xml" />
+        <option value="$PROJECT_DIR$/../one-way-anova/pom.xml" />
       </list>
     </option>
   </component>
