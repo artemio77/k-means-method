@@ -6,12 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="one-way-anova" />
+        <module name="linear-regression" />
+        <module name="k-means" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="k-means" target="11" />
-      <module name="linear-regression" target="11" />
-      <module name="one-way-anova" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
